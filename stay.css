@@ -1,0 +1,24 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'josefin sans', sans-serif;
+	box-sizing: border-box;
+}
+body{
+        height: 110vh;
+     	width: 100%;
+        background-image: url(img/a.jpg);
+        background-size: cover;
+        background-position:center ;
+}
+#matin{
+	display: inline-block;
+	width: 250px;
+	height: 40px;
+	margin-left: 150px;
+}
+#tugma{
+	display: inline-block;
+	width: 100px;
+	height: 38px;
+}
